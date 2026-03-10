@@ -60,7 +60,7 @@ Os dados de cadastro são gerados dinamicamente utilizando **Faker**.
 Clone o repositório:
 
 ```
-git clone <url-do-repositorio>
+git clone https://github.com/MatheusBbraga/test-parabank
 ```
 
 Entre na pasta do projeto:
